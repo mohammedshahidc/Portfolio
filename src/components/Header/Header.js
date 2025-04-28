@@ -12,7 +12,7 @@ const Header = () => {
       {route === '/' ? (
         <Div1>
           <span style={{display: 'flex', alignItems: 'center'}}>
-            @Vasile
+            Mohammed Shahid C
           </span>
         </Div1>
       ) : (
