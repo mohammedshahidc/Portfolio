@@ -20,7 +20,7 @@ export default function SocialMedia({inFooter}) {
         <AiFillLinkedin size="3rem"/>
       </SocialIcons>
       <SocialIcons
-        href="shahidmohammed4083@gmail.com"
+        href="mailto:shahidmohammed4083@gmail.com"
         title="Send directly an email"
         target="_blank"
         rel="noopener noreferrer">
