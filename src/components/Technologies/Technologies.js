@@ -44,7 +44,7 @@ const Technologies = () => (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node.js, Express.js, MongoDB, Mongoose
+            Node.js, Express.js, MongoDB, Mongoose ,Postgresql
           </ListParagraph>
         </ListContainer>
       </ListItem>
